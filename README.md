@@ -13,7 +13,7 @@ Este projeto utiliza a biblioteca Dash para criar uma aplicação web interativa
 
 Antes de executar o projeto, você precisa ter o Python instalado em sua máquina. Além disso, instale as bibliotecas necessárias usando o seguinte comando:
 
-```bash
+## bash
 pip install dash pandas plotly
 
 /seu_diretorio_do_projeto

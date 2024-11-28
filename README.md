@@ -16,12 +16,6 @@ Antes de executar o projeto, você precisa ter o Python instalado em sua máquin
 ## bash
 pip install dash pandas plotly
 
-/seu_diretorio_do_projeto
-│
-├── ecommerce_estatistica.csv  # Arquivo CSV com dados do e-commerce
-├── app.py                      # Código da aplicação Dash
-└── README.md                   # Este arquivo
-
 ## Como Executar a Aplicação
 
 Clone o repositório ou baixe os arquivos do projeto.
